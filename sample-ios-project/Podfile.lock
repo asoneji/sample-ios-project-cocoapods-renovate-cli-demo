@@ -1,5 +1,5 @@
 PODS:
-  - Analytics (3.8.1)
+  - Analytics (3.9.0)
   - Realm (5.0.3):
     - Realm/Headers (= 5.0.3)
   - Realm/Headers (5.0.3)
@@ -7,7 +7,7 @@ PODS:
     - Realm (= 5.0.3)
 
 DEPENDENCIES:
-  - Analytics (= 3.8.1)
+  - Analytics (= 3.9.0)
   - RealmSwift (= 5.0.3)
 
 SPEC REPOS:
@@ -17,10 +17,10 @@ SPEC REPOS:
     - RealmSwift
 
 SPEC CHECKSUMS:
-  Analytics: 45b1faec509367a99c7b788cc5389180c43fe3fc
+  Analytics: 67cce2129e4b0df5b532bf0c043043f292b32f5f
   Realm: bfca1699b61b0b17c3a69ae0e648314eae91fbdb
   RealmSwift: 493c9f089cd3893b3959007973c0e4f640906ba0
 
-PODFILE CHECKSUM: b0c4a7d9fae137c338846bf7766a08423538ea0e
+PODFILE CHECKSUM: 68a1d28f89fd03cced9f7bd8c9fe7d7887cb1f81
 
 COCOAPODS: 1.9.3
